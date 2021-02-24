@@ -20,6 +20,11 @@ body {
   margin-bottom: 20px;
 }
 
+.fn{
+  font-family: 'Kaushan Script', cursive;
+  font-family: 'Merienda', cursive;
+}
+
 
 @media only screen and (max-height:1000px)
 {
