@@ -1,0 +1,6 @@
+{
+    "emmet.includeLanguages": {
+       "javascript": "javascriptreact"
+   },
+   "json.maxItemsComputed": 20000
+ }
